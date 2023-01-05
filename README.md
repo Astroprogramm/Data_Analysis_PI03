@@ -23,4 +23,5 @@ A telecommunication service provider has contacted me to carry out a complete an
 The project was developed on a notebook on the Google Colab platform, which describes the entire EDA process (exploratory data analysis) and its conclusions.
 This notebook is present in this repository as EDA-PI03.ipynb
 
+The datasets where requested from the API available in the site on a Google Sheets file with Apps Scripts tool (both files are in the repository), and from there exported to a Data Studio Looker dashboard. The dashboard can be access in this link: https://images.unsplash.com/photo-1592950630581-03cb41342cc5?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb
 
